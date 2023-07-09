@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+
+  font-family: sans-serif;
+  text-align: center;
+  background: linear-gradient(72deg, rgb(224, 0, 100) 1%, rgb(89, 1, 255) 79%);
+}
+h1 {
+  color: black;
+}
